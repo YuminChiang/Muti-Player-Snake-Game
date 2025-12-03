@@ -112,7 +112,7 @@ The project is currently in development stage.  Some features are not yet fully 
 
 ## 👨‍💻 Author
 
-YuminChiang
+[YuminChiang](https://github.com/YuminChiang)
 
 ## 📄 License
 
